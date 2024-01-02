@@ -1,2 +1,2 @@
 # artificial-genius-tubitak
-Codes of my TUBITAK Project of bideb2204-2022
+Codes of my TUBITAK Project for bideb-2204 June 2022
