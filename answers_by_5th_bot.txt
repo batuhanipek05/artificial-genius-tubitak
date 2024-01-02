@@ -1,0 +1,361 @@
+Ask me anything!:Would you still eat meat if, YOU had to KILL the animal for it, why or why not?
+how many answers do you want?10
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>Would you still eat meat if, YOU had to KILL the animal for it, why or why not? <|SEP|> I'd be fine with that. But would there have been a way in which we could kill all of them and get rid of every single one after eating
+
+
+2: <|BOS|>Would you still eat meat if, YOU had to KILL the animal for it, why or why not? <|SEP|> No. If I could get away with murder i would kill my dog and then probably be a vegetarian
+
+
+3: <|BOS|>Would you still eat meat if, YOU had to KILL the animal for it, why or why not? <|SEP|> Yes. I'd kill whoever made me want that steak and then just leave my body in a pile of dead animals when they get home
+
+
+4: <|BOS|>Would you still eat meat if, YOU had to KILL the animal for it, why or why not? <|SEP|> I'd kill a cow and then cut off all of its bones.
+
+
+5: <|BOS|>Would you still eat meat if, YOU had to KILL the animal for it, why or why not? <|SEP|> I would just die.
+
+
+Ask me anything!:Which songs are you ashamed of admitting you like?
+how many answers do you want?123
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>Which songs are you ashamed of admitting you like? <|SEP|> "I Am Legend" by Queen. I've always liked the song, but it's still a weird thing to me and everyone else who listens to this album has no idea what is going on with that line
+
+
+2: <|BOS|>Which songs are you ashamed of admitting you like? <|SEP|> The entire song "The Way I Am" by Rammstein. It's a bit weird but still...
+
+
+3: <|BOS|>Which songs are you ashamed of admitting you like? <|SEP|> The first time I heard "I can't believe it" from the Beatles.
+
+
+4: <|BOS|>Which songs are you ashamed of admitting you like? <|SEP|> My heart hurts by the Beatles.
+
+
+5: <|BOS|>Which songs are you ashamed of admitting you like? <|SEP|> I love "The Beach Boys" by The Gangs. It's a little too heavy for me, but it is still pretty damn good
+
+
+Ask me anything!:When you're at home where do you eat your meals?
+how many answers do you want?2
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>When you're at home where do you eat your meals? <|SEP|> When I m hungry
+
+
+2: <|BOS|>When you're at home where do you eat your meals? <|SEP|> I have a sandwich and that's my only meal.
+
+
+3: <|BOS|>When you're at home where do you eat your meals? <|SEP|> I always cook for my family.
+
+
+4: <|BOS|>When you're at home where do you eat your meals? <|SEP|> I live in a pretty remote area, so it's really not an issue.
+
+
+5: <|BOS|>When you're at home where do you eat your meals? <|SEP|> When I m eating dinner and my dog is out in the yard.
+
+
+Ask me anything!:where do you eat your meals at home?
+how many answers do you want?2
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>where do you eat your meals at home? <|SEP|> In the kitchen, I'm eating with a fork.
+
+
+2: <|BOS|>where do you eat your meals at home? <|SEP|> I work as a chef and my kitchen is the same.
+
+
+3: <|BOS|>where do you eat your meals at home? <|SEP|> I have a lot of ramen, but my house has an amazing seafood restaurant. It's also great to get in there when the food isn't fresh enough and it takes longer than most restaurants use (in case something goes wrong).
+
+
+4: <|BOS|>where do you eat your meals at home? <|SEP|> In the fridge.
+
+
+5: <|BOS|>where do you eat your meals at home? <|SEP|> The restaurant where I live. It's called the Red Robin in my town
+
+
+Ask me anything!:If you died today, what would be the most embarrassing thing someone will find in your room while cleaning things up?
+how many answers do you want?3
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>If you died today, what would be the most embarrassing thing someone will find in your room while cleaning things up? <|SEP|> My husband's girlfriend
+
+
+2: <|BOS|>If you died today, what would be the most embarrassing thing someone will find in your room while cleaning things up? <|SEP|> My wife. She has no idea that I'm going to die but she's a little jealous of my death and it doesn't even matter how much we spend on her
+
+
+3: <|BOS|>If you died today, what would be the most embarrassing thing someone will find in your room while cleaning things up? <|SEP|> A dead mouse.
+
+
+4: <|BOS|>If you died today, what would be the most embarrassing thing someone will find in your room while cleaning things up? <|SEP|> A picture of my dad
+
+
+5: <|BOS|>If you died today, what would be the most embarrassing thing someone will find in your room while cleaning things up? <|SEP|> A stack of condoms and a turd
+
+
+Ask me anything!:What are your thoughts on states canceling unemployment because they see it as people being lazy and not wanting to work?
+how many answers do you want?4
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>What are your thoughts on states canceling unemployment because they see it as people being lazy and not wanting to work? <|SEP|> They're going out of business in the fall.
+
+
+2: <|BOS|>What are your thoughts on states canceling unemployment because they see it as people being lazy and not wanting to work? <|SEP|> Because you're the one who's gonna do a lot of illegal shit
+
+
+3: <|BOS|>What are your thoughts on states canceling unemployment because they see it as people being lazy and not wanting to work? <|SEP|> I would like a refund.
+
+
+4: <|BOS|>What are your thoughts on states canceling unemployment because they see it as people being lazy and not wanting to work? <|SEP|> The same way that many jobs in the US aren't paying their employees enough, or getting a raise.
+
+
+5: <|BOS|>What are your thoughts on states canceling unemployment because they see it as people being lazy and not wanting to work? <|SEP|> I think the best way is for a state that doesn't have good jobs. It's more like "We'll keep this job until we retire."
+
+
+Ask me anything!:What's considered a luxury back then but not now?
+how many answers do you want?6
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>What's considered a luxury back then but not now? <|SEP|> The first thing you did when your parents bought it was go into the car and buy an air conditioner.
+
+
+2: <|BOS|>What's considered a luxury back then but not now? <|SEP|> Going to bed early
+
+
+3: <|BOS|>What's considered a luxury back then but not now? <|SEP|> Going to the gym.
+
+
+4: <|BOS|>What's considered a luxury back then but not now? <|SEP|> Getting your credit card info right on the first try.
+
+
+5: <|BOS|>What's considered a luxury back then but not now? <|SEP|> Getting married.
+
+
+Ask me anything!:Parents of Reddit, how do you control your children’s exposure to religion?
+how many answers do you want?7
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>Parents of Reddit, how do you control your children’s exposure to religion? <|SEP|> I have two kids who are atheists. They don t talk much and they will be quiet about it all the time when talking or being with other people s parents because that is their job as a parent. My daughter has been told she isn't allowed outside until after school if her mom gets home from work/school (I think). But this one day my husband got in his car and he was like oh shit! He didn t even know what drove him out anymore so now we just sit around doing nothing while playing video games on our phones for hours watching movies etc
+
+
+2: <|BOS|>Parents of Reddit, how do you control your children’s exposure to religion? <|SEP|> I'm not religious but my mom does it and she's a very Christian one. She'll always be the only person that says "I have faith in God" when someone else doesn't believe them
+
+
+3: <|BOS|>Parents of Reddit, how do you control your children’s exposure to religion? <|SEP|> My parents are catholic and they have a very strong belief in god. They believe that the Earth is round or flat like stars but also not black holes (that s where my sister lives). I m sure this will be buried under some crazy religious beliefs though
+
+
+4: <|BOS|>Parents of Reddit, how do you control your children’s exposure to religion? <|SEP|> My daughter is an Atheist. She's had her own beliefs for many years and she'll have the same ones over time...I don't care if they're not Christian or atheist but it will always be something I can get behind
+
+
+5: <|BOS|>Parents of Reddit, how do you control your children’s exposure to religion? <|SEP|> I have a little bit less than 10 years old. But if we're going through something similar and the kids are being bullied or even worse for not believing in God...we'll just let them know they aren't allowed anywhere near our faith because it's an unspoken rule that no one should be afraid from having any other person around who isn't their parents (they also don t really care about what is happening).
+
+
+Ask me anything!:What makes you nostalgic?
+how many answers do you want?67
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>What makes you nostalgic? <|SEP|> The music, the nostalgia.
+
+
+2: <|BOS|>What makes you nostalgic? <|SEP|> My little sister.
+
+
+3: <|BOS|>What makes you nostalgic? <|SEP|> I remember being a kid, and my mom's favorite childhood toy was the Gameboy.
+
+
+4: <|BOS|>What makes you nostalgic? <|SEP|> The smell of fresh air
+
+
+5: <|BOS|>What makes you nostalgic? <|SEP|> The smell of my parents
+
+
+Ask me anything!:Americans Of Reddit, how old are you? and how many times have you been called for jury duty?
+how many answers do you want?5
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>Americans Of Reddit, how old are you? and how many times have you been called for jury duty? <|SEP|> I'm 32. My husband is 36...
+
+
+2: <|BOS|>Americans Of Reddit, how old are you? and how many times have you been called for jury duty? <|SEP|> I'm 19. My wife is 16 (she's 22) so it makes sense that she'd be in court as a witness if not her lawyer or my own attorney...
+
+
+3: <|BOS|>Americans Of Reddit, how old are you? and how many times have you been called for jury duty? <|SEP|> I'm 32.
+
+
+4: <|BOS|>Americans Of Reddit, how old are you? and how many times have you been called for jury duty? <|SEP|> I was a witness to an 18 year-old who tried repeatedly on multiple occasions that his mom had him beat up by her husband. He said he couldn't remember which one she got the most in pain from (because of some kind kid being beaten up).
+
+
+5: <|BOS|>Americans Of Reddit, how old are you? and how many times have you been called for jury duty? <|SEP|> I'm 32. My family is 23 years older than me (I was a teenager when we got together). They all live in different states now so my mom still lives here because she has to pay tuition for her own college education
+
+
+Ask me anything!:People of Reddit, what is the funniest date you've had?
+how many answers do you want?6
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>People of Reddit, what is the funniest date you've had? <|SEP|> Went to a party and I'm sitting at my table with an older gentleman who was talking about his life. He says he's having trouble making friends so we all go out for drinks before going back into town on our first day there...I think it might be something like this: "Hey man have some beers tonight."
+
+
+2: <|BOS|>People of Reddit, what is the funniest date you've had? <|SEP|> My wife and I went to a restaurant. The waitress asked if we could go on our first dates at my place because she knew that was going in for us both.
+
+
+3: <|BOS|>People of Reddit, what is the funniest date you've had? <|SEP|> Went to a wedding in Paris. The groom and I went out for dinner together that evening at her place (in France) which was just a few blocks away from where we were going but she didn't know who did it as there are no buildings nearby so they all sat on one corner waiting. After some conversation with my friend about how much time passed by etc...she tells me "I'm sorry sir" then proceeds to say something along those lines..and after 5 minutes or whatever i realized exactly why this happened lol
+
+
+4: <|BOS|>People of Reddit, what is the funniest date you've had? <|SEP|> I was in a restaurant with my friends and this girl came up to us. She looked at me like she wanted to show off her tits so we were kind enough not to talk about it but still...
+
+
+5: <|BOS|>People of Reddit, what is the funniest date you've had? <|SEP|> I was at a club and this guy came up to me in front. He asked if he could join us for drinks before we went out on dates with other guys from our area that were there too! And then proceeded all over again after being groped by his gf/wife (she didn't know). We ended it pretty good but when she brought her friend back home one night she said "I'm sorry... Did your friends get pregnant?" She told him no because they are married now so not many people have any kids or don t like them.. So i left lol
+
+
+Ask me anything!: What food tastes better when stale?
+how many answers do you want?6
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|> What food tastes better when stale? <|SEP|> Anything with the word "bae".
+
+
+2: <|BOS|> What food tastes better when stale? <|SEP|> Chocolate chip cookies
+
+
+3: <|BOS|> What food tastes better when stale? <|SEP|> Chocolate
+
+
+4: <|BOS|> What food tastes better when stale? <|SEP|> Rice.
+
+
+5: <|BOS|> What food tastes better when stale? <|SEP|> Popcorn
+
+
+Ask me anything!:What food tastes better when stale?
+how many answers do you want?345
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>What food tastes better when stale? <|SEP|> Cajun
+
+
+2: <|BOS|>What food tastes better when stale? <|SEP|> A bagel.
+
+
+3: <|BOS|>What food tastes better when stale? <|SEP|> Ketchup.
+
+
+4: <|BOS|>What food tastes better when stale? <|SEP|> I'm a vegetarian and can confirm this.
+
+
+5: <|BOS|>What food tastes better when stale? <|SEP|> The bread
+
+
+Ask me anything!:What new jobs exist now that didn't exist before and that people don't know about?
+how many answers do you want?567
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>What new jobs exist now that didn't exist before and that people don't know about? <|SEP|> I work in the kitchen, but it's not like we're a place to hide your food. It goes everywhere you go for days or weeks at a time so if something gets caught on camera/crack of paper they can take photos (like some kind with them) from around where someone is looking through their cameras then leave. The other day my coworker was trying his best while sitting beside him when he saw an older woman running towards her husband holding another lady by her hair... And she turned into herself....
+
+
+2: <|BOS|>What new jobs exist now that didn't exist before and that people don't know about? <|SEP|> I have a dream job where you're supposed to do the work for free, but when your boss asks "what are we doing?", or if it's something like running an office.
+
+
+3: <|BOS|>What new jobs exist now that didn't exist before and that people don't know about? <|SEP|> I'm an electrician.
+
+
+4: <|BOS|>What new jobs exist now that didn't exist before and that people don't know about? <|SEP|> I'm a chef at an Asian restaurant in the US. We have this one guy who goes to go around all over everything, he's always there for us when we need him most of our time so his only concern is finding something good (or just plain food) or making it more difficult than necessary
+
+
+5: <|BOS|>What new jobs exist now that didn't exist before and that people don't know about? <|SEP|> I'm an electrician.
+
+
+Ask me anything!:Everyone on reddit, how's your day going so far?
+how many answers do you want?435
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>Everyone on reddit, how's your day going so far? <|SEP|> I'm in a really bad place.
+
+
+2: <|BOS|>Everyone on reddit, how's your day going so far? <|SEP|> Pretty good. I've been out of work for two months and my job is still pretty shit to this point but it doesn't hurt anymore
+
+
+3: <|BOS|>Everyone on reddit, how's your day going so far? <|SEP|> Pretty good. I've got a great job that pays me well and is nice to work with :)
+
+
+4: <|BOS|>Everyone on reddit, how's your day going so far? <|SEP|> I m getting a job and working at the same time.
+
+
+5: <|BOS|>Everyone on reddit, how's your day going so far? <|SEP|> I'm still pretty depressed and have no idea what to do.
+
+
+Ask me anything!:When did you get screwed over by different time zones?
+how many answers do you want?78
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>When did you get screwed over by different time zones? <|SEP|> When I was in college, my buddy would drive to the back of a car and hit me with his hand. He said it hurt so bad that he couldn't move or even see what happened until we got there
+
+
+2: <|BOS|>When did you get screwed over by different time zones? <|SEP|> I was in a bar with my girlfriend and one of the guys from that club came up to us, said "I'm not going out here. You are going home."
+
+
+3: <|BOS|>When did you get screwed over by different time zones? <|SEP|> When I was younger. In middle school, there were a lot of kids who would be on the bus or ride their bikes to and from work at night so they could go home late if it wasn't an evening (we had no idea how long we'd have been in that area). So one day my dad's friends called me up for lunch because he thought something weird happened while driving around town with his bike lights off all night...it didn t happen until later when our teacher told us this.
+
+
+4: <|BOS|>When did you get screwed over by different time zones? <|SEP|> I was driving to work and the car behind me went a little too far. The driver didn't realize what they were doing so he pulled up next door for my car in front of them (the guy who drove it) but then said "what's going on?" And left his seatbelt, which is right above mine!
+
+
+5: <|BOS|>When did you get screwed over by different time zones? <|SEP|> When I was 15, my friend and his dad were going to the beach in a couple of days. The day before they got there we went out for dinner with some friends from our neighborhood who didn't have their phones on because it's too late so everyone else had cellphones left hanging around us while we sat down at home watching movies or something...
+
+
+Ask me anything!:Dear Redditors, what's something you'd tell/teach/... your younger self, if you could?
+how many answers do you want?456
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>Dear Redditors, what's something you'd tell/teach/... your younger self, if you could? <|SEP|> Don't worry about being an asshole
+
+
+2: <|BOS|>Dear Redditors, what's something you'd tell/teach/... your younger self, if you could? <|SEP|> Don't be a jerk. I know it sounds cliche but that would just mean i don t have to do anything and not talk about my issues or problems in any way
+
+
+3: <|BOS|>Dear Redditors, what's something you'd tell/teach/... your younger self, if you could? <|SEP|> That the world is not fair to anyone. You are a human being and that we should all be respected by others so no one can judge us for our faults or how much they think of themselves as their own person
+
+
+4: <|BOS|>Dear Redditors, what's something you'd tell/teach/... your younger self, if you could? <|SEP|> I am not a bad person
+
+
+5: <|BOS|>Dear Redditors, what's something you'd tell/teach/... your younger self, if you could? <|SEP|> I would teach myself how to be a good father and my older sister.
+
+
+Ask me anything!:What's your opinion on taxes?
+how many answers do you want?678
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>What's your opinion on taxes? <|SEP|> I'm a pretty conservative, but if you have to pay for it all in the first place.
+
+
+2: <|BOS|>What's your opinion on taxes? <|SEP|> I'm not sure.
+
+
+3: <|BOS|>What's your opinion on taxes? <|SEP|> It s a stupid question. I think it is too lazy to ask for tax dollars, but they are so damn expensive that you can t afford them
+
+
+4: <|BOS|>What's your opinion on taxes? <|SEP|> I would say it s a good idea.
+
+
+5: <|BOS|>What's your opinion on taxes? <|SEP|> The best way to tax it is you are paying for everything in the world. If we all go out of our ways, then there will be a time when no one wants anyone else living around them so they can buy their own shit
+
+
+Ask me anything!:Who is your favorite musician and why?
+how many answers do you want?5
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>Who is your favorite musician and why? <|SEP|> Chris Brown. He's the greatest guitar player I've ever met, but his solo style was so great that it gave me chills every time he came on stage for a show at work with no other music to play in front of him (or any)
+
+
+2: <|BOS|>Who is your favorite musician and why? <|SEP|> My mom, who I love dearly but not as much because of the music she does.
+
+
+3: <|BOS|>Who is your favorite musician and why? <|SEP|> I like his voice. He has some great songs that are just as good or better than my current band, but he's a really nice guy too
+
+
+4: <|BOS|>Who is your favorite musician and why? <|SEP|> Radiohead
+
+
+5: <|BOS|>Who is your favorite musician and why? <|SEP|> The bassist. I love the guitar, but my girlfriend loves it more than anything else she has ever heard of him
+
+
+Ask me anything!:What is one thing that you said that you wish you could take back?
+how many answers do you want?33334
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+1: <|BOS|>What is one thing that you said that you wish you could take back? <|SEP|> "I'm going to have a good day with your family."
+
+
+2: <|BOS|>What is one thing that you said that you wish you could take back? <|SEP|> I wanted to have a child.
+
+
+3: <|BOS|>What is one thing that you said that you wish you could take back? <|SEP|> I once told a friend about how she hated her father. He was an asshole and didn t listen to me, but he also never liked my mother so they wouldn't be friends anymore...
+
+
+4: <|BOS|>What is one thing that you said that you wish you could take back? <|SEP|> "You're so good at this, it's just not worth the effort."
+
+
+5: <|BOS|>What is one thing that you said that you wish you could take back? <|SEP|> I was at a bar and this girl walked up to me in the lobby. She asked if she can join us when we are out of town for college, so i went over her shoulder with my hand held in front of everyone else's hair and kissed it while holding hers open as best im possible without saying anything but "I want ya"
+
+
+Ask me anything!:

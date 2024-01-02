@@ -1,0 +1,426 @@
+How old are you?<end_of_input>20<end_of_data>
+Who needs a hug?<end_of_input>Me<end_of_data>
+Who needs a hug?<end_of_input>Covid<end_of_data>
+How tall are you?<end_of_input>6ft 1<end_of_data>
+How fucked are we?<end_of_input>Super<end_of_data>
+How fucked are we?<end_of_input>Pretty<end_of_data>
+What should not exist?<end_of_input>Me<end_of_data>
+What should not exist?<end_of_input>Me.<end_of_data>
+What’s worth the wait?<end_of_input>KFC<end_of_data>
+People who love life why?<end_of_input>💵<end_of_data>
+Owls of Reddit, who?<end_of_input>Whoohoo<end_of_data>
+What should not exist?<end_of_input>Skunks<end_of_data>
+Owls of Reddit, who?<end_of_input>Who whoo<end_of_data>
+What is it like being you?<end_of_input>Ok<end_of_data>
+What makes you happy?<end_of_input>Nothing<end_of_data>
+What's the best cereal?<end_of_input>Krave<end_of_data>
+[deleted by user]<end_of_input>"I'm doing"<end_of_data>
+Whats your favorite bean?<end_of_input>Toe<end_of_data>
+Why are you so sad today?<end_of_input>Sex<end_of_data>
+What's the worst fandom?<end_of_input>Kpop<end_of_data>
+Whats your favorite bean?<end_of_input>Les<end_of_data>
+Redditors, how old are you?<end_of_input>36<end_of_data>
+If not school then What?<end_of_input>Sleep<end_of_data>
+What should not exist?<end_of_input>Nothing<end_of_data>
+What are you too old for?<end_of_input>life<end_of_data>
+What do you do to destress?<end_of_input>;)<end_of_data>
+What’s the best animal?<end_of_input>toitle<end_of_data>
+What is the meaning of life?<end_of_input>42<end_of_data>
+What should not exist?<end_of_input>Poverty.<end_of_data>
+Hugs or sex? Why?<end_of_input>Both. Because<end_of_data>
+Why do you smoke weed?<end_of_input>Cuz weed<end_of_data>
+What is the best donut?<end_of_input>Kakyoin<end_of_data>
+What's your favorite food?<end_of_input>Meat<end_of_data>
+What’s the best animal?<end_of_input>Hooman <end_of_data>
+What is your favorite food?<end_of_input>You<end_of_data>
+What'd you eat today?<end_of_input>Taquitos. <end_of_data>
+What’s an old person word?<end_of_input>Edna.<end_of_data>
+What can money NOT buy?<end_of_input>Loyality<end_of_data>
+What’s an old person word?<end_of_input>sonny<end_of_data>
+What's your life motto?<end_of_input>Fuck it.<end_of_data>
+How do you think you'll die?<end_of_input>Bus<end_of_data>
+What is life about?<end_of_input>VENGEANCE!!!<end_of_data>
+Why do you sleep naked?<end_of_input>Comfort.<end_of_data>
+Whats your favorite bean?<end_of_input>Carri.<end_of_data>
+What's your favorite soda?<end_of_input>Pepsi<end_of_data>
+Who’s up and why?<end_of_input>Because Europe<end_of_data>
+What do you enjoy?<end_of_input>Peace & quiet<end_of_data>
+Who do you think you are?<end_of_input>Donkey<end_of_data>
+What is the biggest legal scam?<end_of_input>⚓<end_of_data>
+What has aged TOO well?<end_of_input>Paul Rudd<end_of_data>
+Whats your favorite bean?<end_of_input>refried<end_of_data>
+What is your favourite word?<end_of_input>Twat<end_of_data>
+What do you hate wearing?<end_of_input>A smile<end_of_data>
+What do you have to lose?<end_of_input>My mind<end_of_data>
+What do you collect?<end_of_input>Guitarssssss<end_of_data>
+Whats your favorite bean?<end_of_input>b e a n<end_of_data>
+What is Reddit good at?<end_of_input>Reposting<end_of_data>
+What’s a good mindfuck movie?<end_of_input>Ink<end_of_data>
+What’s your favourite word?<end_of_input>Pizza<end_of_data>
+How do you like your coffee?<end_of_input>Iced<end_of_data>
+Where are you from?<end_of_input>My dads house<end_of_data>
+What is your favourite word?<end_of_input>Seyo<end_of_data>
+What Haunts you the most?<end_of_input>My penis<end_of_data>
+What do you think of goats?<end_of_input>P cool<end_of_data>
+What are u doing?<end_of_input>Checking reddit.<end_of_data>
+Whats the best kind of cake?<end_of_input>Lemon<end_of_data>
+What are you hiding?<end_of_input>My depression<end_of_data>
+What keeps you awake?<end_of_input>Overthinking<end_of_data>
+What are you too old for?<end_of_input>Nonsense<end_of_data>
+How do you choose books?<end_of_input>The cover<end_of_data>
+Whats the best kind of cake?<end_of_input>Free.<end_of_data>
+What exists but shouldn't?<end_of_input>Prisons<end_of_data>
+What would Jesus NOT do?<end_of_input>Come back<end_of_data>
+What is your addiction?<end_of_input>tuna pizza<end_of_data>
+What is your favorite dead meme?<end_of_input>E<end_of_data>
+What’s your motto you live by?<end_of_input>yolo<end_of_data>
+What’s your favourite word?<end_of_input>Citadel<end_of_data>
+Philosophers of Reddit: Why?<end_of_input>Spite.<end_of_data>
+What’s an old person word?<end_of_input>Bloomers<end_of_data>
+What's your life motto?<end_of_input>All is one.<end_of_data>
+What show is a must-watch?<end_of_input>Futurama<end_of_data>
+What is the prettiest name?<end_of_input>Cumlord<end_of_data>
+What is the prettiest name?<end_of_input>Minerva<end_of_data>
+What's that behind you?<end_of_input>My car seat<end_of_data>
+How do introverts flirt?<end_of_input>They don’t<end_of_data>
+What is it like in your head?<end_of_input>Porn.<end_of_data>
+What’s an old person word?<end_of_input>Malarkey<end_of_data>
+When was your darkest hour?<end_of_input>3:00 AM<end_of_data>
+What should not exist?<end_of_input>sans hentai.<end_of_data>
+Owls of Reddit, who?<end_of_input>You're a hoot!<end_of_data>
+How do you hope you will die?<end_of_input>Proud<end_of_data>
+What makes you happy?<end_of_input>Lots of money<end_of_data>
+What is your favorite anime?<end_of_input>trigun<end_of_data>
+What do people like?<end_of_input>Cats and dogs.<end_of_data>
+What's your favorite soda?<end_of_input>Rockstar<end_of_data>
+What doesn't impress you?<end_of_input>one-uppers<end_of_data>
+What are you doing right now?<end_of_input>Reddit<end_of_data>
+What is your favourite word?<end_of_input>LAUGH!!<end_of_data>
+What was good while it lasted?<end_of_input>Money<end_of_data>
+What's your favourite animal?<end_of_input>Mules.<end_of_data>
+What do your hands smell like ?<end_of_input>Soap<end_of_data>
+What's a badass middle name?<end_of_input>Raymond<end_of_data>
+Whats the best kind of cake?<end_of_input>Carrot.<end_of_data>
+What are you doing right now?<end_of_input>Typing<end_of_data>
+How did we get here?<end_of_input>Ask Bill Wurtz.<end_of_data>
+Where do all lost pens go?<end_of_input>Penisland<end_of_data>
+What is your toxic trait?<end_of_input>Narcissism<end_of_data>
+Whats your favourite word?<end_of_input>Elucidate<end_of_data>
+What is your addiction?<end_of_input>Doing makup.<end_of_data>
+What's the best cereal?<end_of_input>Cap'n crunch<end_of_data>
+What is NOT as bad as it seems?<end_of_input>Life<end_of_data>
+What’s a good mindfuck movie?<end_of_input>Primer<end_of_data>
+Whats the best kind of cake?<end_of_input>Cheese.<end_of_data>
+What's country do you live in?<end_of_input>Wales<end_of_data>
+What is your favorite smell?<end_of_input>Vanilla<end_of_data>
+How do you like your coffee?<end_of_input>I don't<end_of_data>
+Where do broken hearts go?<end_of_input>To the ER<end_of_data>
+What scams have you fallen for?<end_of_input>life<end_of_data>
+What are some good life hacks?<end_of_input>Coffee<end_of_data>
+What’s a good mindfuck movie?<end_of_input>Shrek 2<end_of_data>
+What smells makes you happy?<end_of_input>my ex gf<end_of_data>
+What can't there be a half of?<end_of_input>Zero..<end_of_data>
+What is your favourite word?<end_of_input>Bubbles.<end_of_data>
+Whats your favourite word?<end_of_input>Micropenis<end_of_data>
+What is your favorite dead meme?<end_of_input>Doge<end_of_data>
+What is the best bad movie?<end_of_input>Showgirls<end_of_data>
+What do you do when you're sad?<end_of_input>Sleep<end_of_data>
+why aren’t you making babies?<end_of_input>I’m 16.<end_of_data>
+What are you saving up for?<end_of_input>a new car<end_of_data>
+What would you do with $1?<end_of_input>Bubble gum<end_of_data>
+Who is your role model?<end_of_input>Donald Trump.<end_of_data>
+What is your "thing"?<end_of_input>Microsoft Excel<end_of_data>
+What is your favorite dead meme?<end_of_input>No U<end_of_data>
+What's the worst fandom?<end_of_input>Christianity<end_of_data>
+What do you look for in music?<end_of_input>Talent<end_of_data>
+How do introverts flirt?<end_of_input>Do we flirt?<end_of_data>
+What's the best skill you have ?<end_of_input>Hugs<end_of_data>
+What is the most calming scent?<end_of_input>Bread<end_of_data>
+What’s your favourite word?<end_of_input>Octopedes<end_of_data>
+What isn’t as bad as it sounds?<end_of_input>Death<end_of_data>
+What do you think of goats?<end_of_input>they cool<end_of_data>
+What is made to be destroyed?<end_of_input>Dynamite<end_of_data>
+Whats the most overhyped food?<end_of_input>Nutella<end_of_data>
+What do you look for in music?<end_of_input>Harmony<end_of_data>
+What is your favorite dead meme?<end_of_input>Ali-a<end_of_data>
+What are you craving right now?<end_of_input>Steak.<end_of_data>
+Who was your first crush?<end_of_input>Kate Winslet<end_of_data>
+What smells makes you happy?<end_of_input>ballsweat<end_of_data>
+How would someone “speedrun” life?<end_of_input>Die<end_of_data>
+What behavior do you respect?<end_of_input>Honesty.<end_of_data>
+What makes a girl less attractive?<end_of_input>Fat<end_of_data>
+How was your day?<end_of_input>Groundhog Day 300...<end_of_data>
+What do you hate about yourself?<end_of_input>A lot<end_of_data>
+What show is a must-watch?<end_of_input>Killing Eve<end_of_data>
+What is your best riddle?<end_of_input>Knock knock <end_of_data>
+What is it like to have tits?<end_of_input>Painful.<end_of_data>
+Which villain was pure evil?<end_of_input>Newman...<end_of_data>
+What should no one EVER collect?<end_of_input>Ligma<end_of_data>
+What smells better than it tastes?<end_of_input>Poo<end_of_data>
+What are you never too old for?<end_of_input>Legos.<end_of_data>
+What’s your font of choice?<end_of_input>Comic sans<end_of_data>
+What is an underrated website?<end_of_input>wattpad<end_of_data>
+What word bothers you the moist?<end_of_input>Teet.<end_of_data>
+What is the best bad movie?<end_of_input>CABLE GUUY<end_of_data>
+What fact cheers you up?<end_of_input>Puppies exist<end_of_data>
+What makes you horny?<end_of_input>A lot of things.<end_of_data>
+What is the #1 rule of life?<end_of_input>Don't die<end_of_data>
+What company has lost their way?<end_of_input>Vice.<end_of_data>
+Where are you from?<end_of_input>Hermosa Beach, Ca.<end_of_data>
+What is the prettiest name?<end_of_input>Top Toasti<end_of_data>
+What are you too old for?<end_of_input>Baby clothes<end_of_data>
+How do you think you will die?<end_of_input>snu-snu<end_of_data>
+What don’t you see anymore?<end_of_input>My friends<end_of_data>
+How often do you hear gunshots?<end_of_input>Never.<end_of_data>
+What should no one EVER collect?<end_of_input>Teeth<end_of_data>
+What word bothers you the moist?<end_of_input>Supper<end_of_data>
+What’s the best midnight snack?<end_of_input>A pizza<end_of_data>
+How would someone “speedrun” life?<end_of_input>SIDS<end_of_data>
+What is Reddit good at?<end_of_input>Procrastination<end_of_data>
+What is easier done than said?<end_of_input>Silence.<end_of_data>
+What smells better than it tastes?<end_of_input>Soap<end_of_data>
+What Reddit comments need to stop?<end_of_input>This<end_of_data>
+What is your favorite anime?<end_of_input>Elfen lied<end_of_data>
+Reddit, what's your addiction?<end_of_input>Internet<end_of_data>
+What is worth its price?<end_of_input>Good bedsheets<end_of_data>
+What smells better than it tastes?<end_of_input>Poop<end_of_data>
+What is pretty fucking heavy ?<end_of_input>your mom<end_of_data>
+What’s your favorite subreddit?<end_of_input>r/funny<end_of_data>
+What smells makes you happy?<end_of_input>Pine trees<end_of_data>
+What do you think of goats?<end_of_input>I like them<end_of_data>
+What's your favorite pokemon?<end_of_input>Drifloon!<end_of_data>
+How do you deal with loneliness?<end_of_input>Cry...<end_of_data>
+Where are you from?<end_of_input>France , Europe 🇫🇷🥐<end_of_data>
+What is Reddit good at?<end_of_input>Cursed comments<end_of_data>
+What sub is the most in denial?<end_of_input>r/Egypt<end_of_data>
+What’s your favorite soup?<end_of_input>Mulligatawny<end_of_data>
+What is unjustifiably overpriced?<end_of_input>Death<end_of_data>
+Who was your first crush?<end_of_input>My 2nd cousin<end_of_data>
+What’s keeping you up at night?<end_of_input>Regrets<end_of_data>
+What is happiness to you?<end_of_input>Peace of mind<end_of_data>
+What is your favorite candy?<end_of_input>Lemonheads<end_of_data>
+What’s your favorite Pokémon ?<end_of_input>Magikarp<end_of_data>
+Why are you sad?<end_of_input>Depression and anxiety<end_of_data>
+Where do all lost pens go?<end_of_input>i have them.<end_of_data>
+What is your biggest fear?<end_of_input>I go insane.<end_of_data>
+What’s the best animal?<end_of_input>Hilary Clinton <end_of_data>
+What brings you joy?<end_of_input>Being appreciated.<end_of_data>
+What is your favourite word?<end_of_input>Esophageal<end_of_data>
+what is your hometown famous for?<end_of_input>Cereal<end_of_data>
+What is your favorite English word?<end_of_input>cunt<end_of_data>
+What are you doing right now?<end_of_input>Breev ayer<end_of_data>
+Which villain was pure evil?<end_of_input>The Grinch.<end_of_data>
+What do you think of goats?<end_of_input>I love Kanye<end_of_data>
+What’s your favorite Pokémon ?<end_of_input>Charizard<end_of_data>
+People who don't use Reddit, why?<end_of_input>&nbsp;<end_of_data>
+What TV show had the worst ending?<end_of_input>Lost.<end_of_data>
+What is the thing you just ate?<end_of_input>Your mom<end_of_data>
+What’s something you love?<end_of_input>My teddy bear<end_of_data>
+What are you never too old for?<end_of_input>Gaming. <end_of_data>
+What color socks are you wearing ?<end_of_input>Black<end_of_data>
+How do you deal with loneliness?<end_of_input>Whiskey<end_of_data>
+Reddit, what's your addiction?<end_of_input>Overwatch<end_of_data>
+What’s your favourite feeling?<end_of_input>Hypomania<end_of_data>
+What will your last words be?<end_of_input>2020 sucks<end_of_data>
+What’s your favourite word?<end_of_input>Defenestrate<end_of_data>
+Who was your first crush?<end_of_input>Rachel Stevens<end_of_data>
+What's your favourite insult?<end_of_input>Hanzo main<end_of_data>
+What is an underrated website?<end_of_input>tblop.com<end_of_data>
+What is your favorite English word?<end_of_input>Cunt<end_of_data>
+How was your day today?<end_of_input>Bit sleepy today<end_of_data>
+What should no one EVER collect?<end_of_input>Corpses<end_of_data>
+What's the worst genre of music?<end_of_input>Country<end_of_data>
+What are you craving right now?<end_of_input>Cheese. <end_of_data>
+How did you lose your virginity?<end_of_input>Happily<end_of_data>
+How did you lose your virginity?<end_of_input>Sexing.<end_of_data>
+What ISN’T going to happen in 2020?<end_of_input>2021<end_of_data>
+Who’s the most iconic duo?<end_of_input>Heroin, and I<end_of_data>
+What will your last words be?<end_of_input>"Oh, fu--"<end_of_data>
+Hey, who are you?<end_of_input>u/TheLegendaryWindMstr<end_of_data>
+What makes you happy instantly?<end_of_input>my doggo<end_of_data>
+What's your strange addiction?<end_of_input>Coca-Cola<end_of_data>
+What's a badass middle name?<end_of_input>Maximillian<end_of_data>
+Why do you listen to music?<end_of_input>To get peace.<end_of_data>
+What’s your favorite oxymoron?<end_of_input>Clean Coal<end_of_data>
+Whats your biggest fear?<end_of_input>Being forgotten <end_of_data>
+What word bothers you the moist?<end_of_input>that one<end_of_data>
+What is your favorite dead meme?<end_of_input>ORLY Owl<end_of_data>
+What’s a unspoken rule of reddit?<end_of_input>Conform<end_of_data>
+What have you grown too fat to do?<end_of_input>Live. <end_of_data>
+What do you use incognito for?<end_of_input>Everything<end_of_data>
+What food should NEVER be crunchy?<end_of_input>Yogurt<end_of_data>
+What age do you want to live to?<end_of_input>1/8/2018<end_of_data>
+What has aged TOO well?<end_of_input>The Office series<end_of_data>
+What is the #1 rule of life?<end_of_input>Murphy's Law<end_of_data>
+What is your favourite pizza?<end_of_input>Free pizza.<end_of_data>
+What’s the biggest fuck-up in history?<end_of_input>Me<end_of_data>
+how would you get reddit gold?<end_of_input>Unpossible<end_of_data>
+What’s worth the wait?<end_of_input>The end of this...<end_of_data>
+What’s your font of choice?<end_of_input>Eternal Youth<end_of_data>
+What is your favorite smell?<end_of_input>My boyfriend<end_of_data>
+What’s a sign you’re attractive?<end_of_input>No signs<end_of_data>
+What really makes you uncomfortable?<end_of_input>Anal<end_of_data>
+What’s your favorite soup?<end_of_input>Plain tomato 🍅<end_of_data>
+Where are you from?<end_of_input>From my mother's womb<end_of_data>
+What’s the worst ice cream flavor?<end_of_input>Melted<end_of_data>
+What is unjustifiably overpriced?<end_of_input>Glasses<end_of_data>
+What scares you at night?<end_of_input>Sleep paralysis<end_of_data>
+What's always worth it?<end_of_input>This girl I love.<end_of_data>
+what is right , but illegal ?<end_of_input>Revolution.<end_of_data>
+What is the best name for a rabbit?<end_of_input>Steve<end_of_data>
+What characters death made you cry?<end_of_input>Aeris<end_of_data>
+What are you super nerdy about?<end_of_input>Astronomy<end_of_data>
+What song or theme would best fit 2020?<end_of_input>h<end_of_data>
+What’s the worst ice cream flavor?<end_of_input>Banana<end_of_data>
+What word bothers you the moist?<end_of_input>*twitch*<end_of_data>
+What was your first car?<end_of_input>2007 Chevy Malibu<end_of_data>
+Hugs or sex? Why?<end_of_input>I love hugs they're warm<end_of_data>
+How do you take your tea?<end_of_input>I don't take tea<end_of_data>
+What disgusts you most about society?<end_of_input>Bums<end_of_data>
+What's your must watch documentary?<end_of_input>Icarus<end_of_data>
+What has aged TOO well?<end_of_input>Back to the Future<end_of_data>
+What is an underrated website?<end_of_input>pornhub.com<end_of_data>
+What keeps you awake?<end_of_input>My feet are too cold<end_of_data>
+What is the prettiest name?<end_of_input>Obi-wan Kenobi<end_of_data>
+Which tv show has the best theme song?<end_of_input>SAO<end_of_data>
+Where did you hide the body?<end_of_input>I am the body<end_of_data>
+What is a good movie, rarely seen?<end_of_input>Amadeus<end_of_data>
+How often do you shower/bath?<end_of_input>Once a week.<end_of_data>
+What do you do when you can't sleep?<end_of_input>Cry. <end_of_data>
+What is your hometown known for?<end_of_input>Budweiser<end_of_data>
+What's your go-to porn category?<end_of_input>Fart porn<end_of_data>
+Which word best rolls off the tongue?<end_of_input>Beam<end_of_data>
+What is your favorite dead meme?<end_of_input>John cena<end_of_data>
+Men who prefer small boobs, why?<end_of_input>Why not? <end_of_data>
+Who wants some fucking cake?<end_of_input>Count me in!!<end_of_data>
+Whats a proper response to "what's up?"<end_of_input>Yo<end_of_data>
+What is your favorite healthy snack?<end_of_input>ramen<end_of_data>
+What's your favorite wine?<end_of_input>White Zinfandel<end_of_data>
+What makes a girl less attractive?<end_of_input>Smoking<end_of_data>
+What gets too much hate?<end_of_input>Someone’s success<end_of_data>
+Who’s the most iconic duo?<end_of_input>Hall and Oates.<end_of_data>
+What is the most '80's song?<end_of_input>Mexican Radio<end_of_data>
+What's the best book you've ever read?<end_of_input>LOTR<end_of_data>
+What has aged TOO well?<end_of_input>Back to the future.<end_of_data>
+What gets too much hate?<end_of_input>Pineapple on pizza<end_of_data>
+What would you name a 13th month?<end_of_input>Notneeded<end_of_data>
+What's your least favorite music genre?<end_of_input>Rap<end_of_data>
+Why should you NOT be the president?<end_of_input>I’m 14<end_of_data>
+When is your bed time?<end_of_input>Between 9pm and 10pm<end_of_data>
+how can you overcome the fear of death?<end_of_input>Die<end_of_data>
+Which celebrity has the worst fanbase?<end_of_input>Gaga<end_of_data>
+What clothing stays on during sex?<end_of_input>The Cape<end_of_data>
+Why do you NOT want to get married?<end_of_input>Divorce<end_of_data>
+How do you piss off your parents?<end_of_input>You don't<end_of_data>
+What is unjustifiably overpriced?<end_of_input>Diamonds <end_of_data>
+What is the prettiest name?<end_of_input>Derp McDerpson.<end_of_data>
+What is NOT as bad as it seems?<end_of_input>mastication<end_of_data>
+What is your hometown known for?<end_of_input>BEER!!! ;)<end_of_data>
+What do you hate most about Reddit?<end_of_input>Reposts<end_of_data>
+Who’s the most iconic duo?<end_of_input>Eric B and Rakim<end_of_data>
+Who are you currently jealous of?<end_of_input>Gal Gadot<end_of_data>
+What is the creepiest subreddit?<end_of_input>/r/cicada <end_of_data>
+What would be scarier if it could run?<end_of_input>jews<end_of_data>
+How do you pee with a boner?<end_of_input>Uncomfortably.<end_of_data>
+Hey Reddit, what is the best hot drink?<end_of_input>Tea<end_of_data>
+Who is your celebrity crush?<end_of_input>Felicity Jones<end_of_data>
+What are some good ways to kill time?<end_of_input>Sleep<end_of_data>
+What's your favorite open world RPG?<end_of_input>Tibia!<end_of_data>
+What sounds deadly but really is not?<end_of_input>Hives<end_of_data>
+What are we NOT in the golden age of?<end_of_input>Nokia<end_of_data>
+What is your favorite English word?<end_of_input>Ya'aint<end_of_data>
+What disgusts you most about society?<end_of_input>Greed<end_of_data>
+What's your least favorite music genre?<end_of_input>Pop<end_of_data>
+What is worth its price?<end_of_input>A Reddit account. <end_of_data>
+Which word do you think you over use?<end_of_input>Bruh.<end_of_data>
+What won’t exist in 10 years time?<end_of_input>Facebook<end_of_data>
+How do you think you will die?<end_of_input>Lung cancer.<end_of_data>
+People who love life why?<end_of_input>Because I'm drunk<end_of_data>
+What's your favorite flavor of popcorn?<end_of_input>BBQ<end_of_data>
+What German words are good to know?<end_of_input>Shizzen<end_of_data>
+What's your biggest pet peeve?<end_of_input>Slurp noises<end_of_data>
+What’s easier to do on lava than snow?<end_of_input>Swim<end_of_data>
+Where are you from?<end_of_input>Slav living in Germany.<end_of_data>
+How often do you shower/bath?<end_of_input>Every morning<end_of_data>
+Who’s the most iconic duo?<end_of_input>Harry and Lloyd.<end_of_data>
+What is your main source of happiness?<end_of_input>Food<end_of_data>
+What about you is above average?<end_of_input>Shoe size.<end_of_data>
+What is the prettiest name?<end_of_input>AssFucker69420.<end_of_data>
+What movie is unexpectedly brilliant?<end_of_input>Goon!<end_of_data>
+What's 10% damage in real life?<end_of_input>Foot cramps<end_of_data>
+What's a WTF fact?<end_of_input>Cats have barbed penises.<end_of_data>
+What do you hope for in 2021?<end_of_input>to find Jesus.<end_of_data>
+What’s a good motto to live by?<end_of_input>Hkuna matata<end_of_data>
+What is illegal but should be legal?<end_of_input>Mopery.<end_of_data>
+What are you listening to right now?<end_of_input>Asmr...<end_of_data>
+What bad movie has amazing music?<end_of_input>Highlander<end_of_data>
+What is your favorite movie about war?<end_of_input>Troy?<end_of_data>
+What if your dick was detachable??<end_of_input>I´m game.<end_of_data>
+What cancelled show deserved better?<end_of_input>Firefly<end_of_data>
+Whats the best type of bread and why?<end_of_input>Garlic<end_of_data>
+How is your day going?<end_of_input>Pretty good actually.<end_of_data>
+Which tv show has the best theme song?<end_of_input>Alice<end_of_data>
+What are your thoughts on mumblerap?<end_of_input>Garbage<end_of_data>
+What was hugely hyped up but flopped?<end_of_input>YikYak<end_of_data>
+What is the #1 rule of life?<end_of_input>everything dies<end_of_data>
+What is your favorite smell?<end_of_input> Cucumber melon<end_of_data>
+What's your favorite comfort food?<end_of_input>Dirt Cake<end_of_data>
+What are your NSFW tips?<end_of_input>Clear your history <end_of_data>
+What’s your motto you live by?<end_of_input>Hakuna Matata<end_of_data>
+How did you lose your virginity?<end_of_input>Past tense?<end_of_data>
+What is 10x scarier at night than day?<end_of_input>Dolls<end_of_data>
+What’s your philosophy on life?<end_of_input>Shit happens<end_of_data>
+What hobby screams rich people?<end_of_input>Horse riding<end_of_data>
+Who is the sexiest animated character?<end_of_input>Shrek<end_of_data>
+What curse do you seemingly have?<end_of_input>Clumsiness<end_of_data>
+How do you deal with your loneliness?<end_of_input>Anime <end_of_data>
+What is good cold, but unforgivable hot?<end_of_input>ice<end_of_data>
+What crime are you guilty of?<end_of_input>Being amazing.<end_of_data>
+How do you pee with a boner?<end_of_input>Simple: I don’t<end_of_data>
+Imagine a triangle. What color is it?<end_of_input>Yellow<end_of_data>
+Hi reddit, what’s outside your window?<end_of_input>House<end_of_data>
+What seems louder at night than at day?<end_of_input>Sex.<end_of_data>
+What is something that should be free?<end_of_input>Water<end_of_data>
+What are the most british things to say?<end_of_input>TEA<end_of_data>
+What is your favorite beverage to drink?<end_of_input>Tea<end_of_data>
+Who’s the most iconic duo?<end_of_input>hercules and xena<end_of_data>
+What's the worst genre of music?<end_of_input>Goth polka.<end_of_data>
+What’s an old person word?<end_of_input>Gaying instrument<end_of_data>
+How do you deal with loneliness?<end_of_input>I enjoy it.<end_of_data>
+What failed retailers do you miss?<end_of_input>WB stores<end_of_data>
+Which languages sound funny to you?<end_of_input>Klingon.<end_of_data>
+What sequel is better than the original?<end_of_input>WW2<end_of_data>
+Imagine a triangle. What color is it?<end_of_input>Yellow<end_of_data>
+what makes a person less attractive?<end_of_input>Smoking<end_of_data>
+How the fuck do we save Australia?<end_of_input>d r o w n<end_of_data>
+What do you live for?<end_of_input>Currently for nothing.<end_of_data>
+What seems louder at night than at day?<end_of_input>Wife<end_of_data>
+What are you currently hyped for?<end_of_input>FF7 remake<end_of_data>
+What is the opposite of your username?<end_of_input>Trump<end_of_data>
+What movie quotes do you always use?<end_of_input>layers.<end_of_data>
+What's the worst place to shit?<end_of_input>on the floor<end_of_data>
+What do you collect?<end_of_input>Snakes and magic cards.<end_of_data>
+What’s the longest you’ve been awake?<end_of_input>4 days<end_of_data>
+What should no one EVER collect?<end_of_input>Virginities<end_of_data>
+What is Reddit good at?<end_of_input>Making cursed images.<end_of_data>
+what is your hometown famous for?<end_of_input>Oktoberfest<end_of_data>
+What do you think of goats?<end_of_input>I fuck with goats<end_of_data>
+What phrase is attached to an accent?<end_of_input>Oi cunt<end_of_data>
+How do you deal with depression?<end_of_input>shake my ass<end_of_data>
+What’s your favorite soup?<end_of_input>Chicken and noodle<end_of_data>
+Which famous singer sucks at singing?<end_of_input>Cardi B<end_of_data>
+Why are you up?<end_of_input>So I can stop feeling down. 😢<end_of_data>
+What is your favorite dead meme?<end_of_input>Lol internet<end_of_data>
+What are you oddly attracted to?<end_of_input>Armpits. yum<end_of_data>
+Why are you gae?<end_of_input>I want to succ a huge shlong<end_of_data>
+What are you doing to improve yourself?<end_of_input>Pizza<end_of_data>
+How did you win the genetic lottery?<end_of_input>I didn’t<end_of_data>
+What are you most insecure about?<end_of_input>My stutter <end_of_data>
+What is your favorite anime?<end_of_input>King of the Hill<end_of_data>
+What clothing stays on during sex?<end_of_input>Bucket hat<end_of_data>
+What seems louder at night than at day?<end_of_input>frogs<end_of_data>
+What's the cheapest way to feel rich?<end_of_input>Massage<end_of_data>
+What show is a must watch right now?<end_of_input>DR STONE<end_of_data>
+What are you in the top 1% of?<end_of_input>Disappointing <end_of_data>
+What do you think heaven smells like?<end_of_input>Citrus.<end_of_data>
+Which movie will make a man cry?<end_of_input>Dogs purpose<end_of_data>
